@@ -11044,5 +11044,8 @@ html {
 }
 
 .copyright {
+  position: relative;
+  bottom: 0;
+  width: 100%;  
   background-color: #1a252f;
 }
